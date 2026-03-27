@@ -22,7 +22,7 @@ Go to:
 
 ---
 
-## 🔌 Step 3: Enable Required APIs
+## Step 3: Enable Required APIs
 
 Go to **APIs & Services → Library**, enable:
 
@@ -113,15 +113,15 @@ sheet = client.open_by_key("YOUR_SHEET_ID")
 
 ## Key Concepts
 
-### 🔹 Service Account
+### Service Account
 
 * A non-human Google account used for backend/API access
 
-### 🔹 Service Account Key
+### Service Account Key
 
 * Authentication credential created for the service account
 
-### 🔹 JSON Credentials File
+### JSON Credentials File
 
 * Contains private key + client email
 * Used by Python to authenticate
